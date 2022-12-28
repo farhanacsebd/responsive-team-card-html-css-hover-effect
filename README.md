@@ -1,2 +1,1 @@
-# team-card-html-css
-## responsive team card
+# responsive team card...
